@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 08 14:35:01 WET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-018b-af5b-a873-0000072d2008 
+on database directory /Users/fm21/Desktop/aulas23_24/projet/Library with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5b37e0d2 
+Loaded from file:/Users/fm21/git/respositoryProjectLab/Equipa3/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=/Users/fm21/git/respositoryProjectLab/Equipa3
+os.name=Mac OS X
+os.arch=aarch64
+os.version=14.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
